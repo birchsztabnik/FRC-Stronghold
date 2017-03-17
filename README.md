@@ -1,6 +1,6 @@
 # FRC Stronghold #2875
 
-+ Bezier autonomous pathfinding
++ Bezier curve autonomous pathfinding using gyroscope and encoders
 + 5 obstacle autonomous
 + Swapable camera feeds
 + Goal highlighting on camera
