@@ -2,7 +2,8 @@
 
 + Bezier curve autonomous pathfinding using gyroscope and encoders
 + Autonomous scoring
-+ 5 obstacle autonomous
++ 5 obstacle and 5 position mix and match autonomous
+  + Any position can be paired with any obstacle
 + Swapable camera feeds
 + Goal highlighting on camera
 + Full Smartdashboard
